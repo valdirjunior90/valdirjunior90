@@ -16,7 +16,7 @@
 
 - 👨‍💻 Fullstack web developer.
 - 💻 NextJs,React,Typescript and SpringBoot.
-- 📚 Graduating in Computer Science on UFERSA.
+- 📚 Bachelor in Computer Science on UFERSA.
  
 
 
